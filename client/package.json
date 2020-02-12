@@ -1,7 +1,7 @@
 {
-  "name": "project_chat_application",
+  "name": "chat_sockets",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "query-string": "^6.8.2",
     "react": "^16.9.0",
